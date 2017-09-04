@@ -4,7 +4,7 @@ This is a simple tutorial on Machine Learning with Scikit-Learn
 
 ## Description
 
-We use the Wisconsin Breast Cancer Dataset (one of the default, preprocessed and cleaned datasets comes with scikit-learn)
+I use the Wisconsin Breast Cancer Dataset (one of the default, preprocessed and cleaned datasets comes with scikit-learn)
 
 The target is to classify tumor as 'malignant' or 'benign'.
 
