@@ -1,4 +1,4 @@
-# Breast-Cancer-Scikit-Learn
+# Breast Cancer Scikit Learn
 
 This is a simple tutorial on Machine Learning with Scikit-Learn
 
