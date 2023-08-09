@@ -1,19 +1,14 @@
-# Breast Cancer Scikit Learn
+# Breast Cancer vs Scikit Learn
 
-Simple tutorial on Machine Learning with Scikit-Learn. 
-The goal is to get basic understanding of various techniques.
+ The goal of this tutorial is to get basic understanding of machine learning techniques, and its applications to understand **Breast Cancer.**
 
 ## Description
 
-I use the "Wisconsin Breast Cancer" which is a default, preprocessed and cleaned datasets comes with scikit-learn. The target is to classify tumor as 'malignant' or 'benign' and code is written in Python using Jupyter notebook (CancerML.ipynb)
+Here, I use the "Wisconsin Breast Cancer" dataset, which is a default, preprocessed and cleaned datasets comes with scikit-learn. The target of this project is to classify tumor into two categories :
+1. 'malignant'
+2. 'benign'
 
-Techniques:
-* KNN
-* Logistic Regression
-* Decision Tree
-* Random Forests
-* Neural Network
-* and SVM
+The entire code of this project is written in python using Jupyter Notebook.
 
 
 
